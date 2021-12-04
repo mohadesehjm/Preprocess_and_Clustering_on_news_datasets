@@ -6,7 +6,9 @@ In this project, first I start to visualize data in 3 groups to understand bette
 In this session, I use 1000 text of news for clustering in three ways:
 
 •	kmeans + BOW(bag of words)
+
 •	kmeans + tf-idf
+
 •	kmeans + fasttext
 
 
